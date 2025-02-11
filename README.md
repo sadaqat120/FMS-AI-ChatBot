@@ -25,7 +25,7 @@ FMS AI ChatBot is an **AI-powered assistant** designed for **Farm Management Sys
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/FMS-AI-ChatBot.git
+git clone https://github.com/sadaqat120/FMS-AI-ChatBot.git
 cd FMS-AI-ChatBot
 ```
 
